@@ -1,1 +1,1 @@
-# Virtual-Quiz
+# Virtual Quiz
