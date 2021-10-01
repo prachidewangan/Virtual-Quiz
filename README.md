@@ -7,7 +7,7 @@ List of task:
 - [X] Video Capturing
 - [X] hand gesture detection
 - [ ] MCQ setup
-- [ ] Quiz Json File Creation
+- [X] Quiz csv File Creation
 - [ ] Taping Option
 - [ ] Scoring
 - [ ] Progress bar
