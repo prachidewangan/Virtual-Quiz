@@ -5,7 +5,7 @@ In this Project We are going to develop Quiz App using CVZone library, We can ma
 List of task:
 
 - [X] Video Capturing
-- [ ] hand gesture detection
+- [X] hand gesture detection
 - [ ] MCQ setup
 - [ ] Quiz Json File Creation
 - [ ] Taping Option
