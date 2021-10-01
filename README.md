@@ -12,3 +12,8 @@ List of task:
 - [ ] Scoring
 - [ ] Progress bar
 - [ ] Ending Page
+
+
+## Install Libraries
+
+`pip install cvzone`  The library use mediapipe to make task easier
